@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
   <Title>Yealink</Title>
-  <Menu Name="1. Àäìèíèñòğàòèâíî-óïğàâëåí÷åñêèé ïåğñîíàë">
-    <Unit Name="Ñêóäèí Èâàí Âëàäèìèğîâè÷" Phone1="1501" Phone2="" Phone3="" default_photo="Resource:"/> 
-    <Unit Name="Ëàâğèíåíêî Àëåêñàíäğ Èâàíîâè÷" Phone1="1502" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ìèøêèíà Àííà Àëåêñàíäğîâíà" Phone1="1506" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Áîëüøóíîâà Åëåíà Âàëåğüåâíà" Phone1="1503" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ôåäîğîâ Ñåğãåé Àôàíàñüåâè÷" Phone1="1515" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="×èğêèíà Îêñàíà Íèêîëàåâíà" Phone1="1505" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Áîëüøàêîâà Íàçèëÿ Ôàğèòîâíà" Phone1="1508" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ãóğàñîâà Àíàñòàñèÿ Êîíñòàíòèíîâíà" Phone1="1513" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Öåïåëåâà Şëèÿ Âàëåíòèíîâíà" Phone1="1509" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Àäàøèíñêàÿ Òàíçèëÿ Àõìåäîâíà" Phone1="1510" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ïåò÷åíêî Ñâåòëàíà Ãåííàäüåâíà" Phone1="1511" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ïëèøêîâà Ñâåòëàíà Ãåííàäüåâíà" Phone1="1507" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Çàõàğîâà Òàòüÿíà Àëåêñååâíà" Phone1="1504" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ïîíîìàğåâà Àëèíà Èâàíîâíà" Phone1="1500" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Íàçìèåâà Àëèÿ Ğàôèñîâíà" Phone1="1512" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Menu Name="2. Ó÷àñòêè">
-    <Unit Name="Óãëèí Àíäğåé Âëàäèìèğîâè÷" Phone1="1517" Phone2="4005" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ğîæèí Şğèé íèêîëàåâè÷" Phone1="1514" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ğîîò Òàòüÿíà Âëàäèìèğîâíà" Phone1="1522" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Øåñòàêîâà Şëèÿ Âëàäèìèğîâíà " Phone1="1521" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Menu Name="3. ÀÇÑ">
-    <Unit Name="ÎÏÒÈ 1405" Phone1="4006" Phone2="4005" Phone3="" default_photo="Resource:"/>
-    <Unit Name="ÀÇÑ 36" Phone1="4009" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ìàğêîâà Åëåíà Ñåğãååâíà" Phone1="1516" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="ÀÇÑ 54" Phone1="4011" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="ÀÇÑ 16" Phone1="4010" Phone2="" Phone3="" default_photo="Resource:"/>
-  <Menu Name="4. Îõğàíà"> 
-    <Unit Name="Ïîæàğíàÿ îõğàíà" Phone1="1523" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ïåğâûé ïîñò ÀÓÏ" Phone1="1518" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Âòîğîé ïîñò íåôòåáàçà" Phone1="1519" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Òğåòèé ïîñò íåôòåñêëàä" Phone1="1520" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Menu Name="1. ĞĞ´Ğ¼Ğ¸Ğ½Ğ¸ÑÑ‚Ñ€Ğ°Ñ‚Ğ¸Ğ²Ğ½Ğ¾-ÑƒĞ¿Ñ€Ğ°Ğ²Ğ»ĞµĞ½Ñ‡ĞµÑĞºĞ¸Ğ¹ Ğ¿ĞµÑ€ÑĞ¾Ğ½Ğ°Ğ»">
+    <Unit Name="Ğ¡ĞºÑƒĞ´Ğ¸Ğ½ Ğ˜Ğ²Ğ°Ğ½ Ğ’Ğ»Ğ°Ğ´Ğ¸Ğ¼Ğ¸Ñ€Ğ¾Ğ²Ğ¸Ñ‡" Phone1="1501" Phone2="" Phone3="" default_photo="Resource:"/> 
+    <Unit Name="Ğ›Ğ°Ğ²Ñ€Ğ¸Ğ½ĞµĞ½ĞºĞ¾ ĞĞ»ĞµĞºÑĞ°Ğ½Ğ´Ñ€ Ğ˜Ğ²Ğ°Ğ½Ğ¾Ğ²Ğ¸Ñ‡" Phone1="1502" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞœĞ¸ÑˆĞºĞ¸Ğ½Ğ° ĞĞ½Ğ½Ğ° ĞĞ»ĞµĞºÑĞ°Ğ½Ğ´Ñ€Ğ¾Ğ²Ğ½Ğ°" Phone1="1506" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ‘Ğ¾Ğ»ÑŒÑˆÑƒĞ½Ğ¾Ğ²Ğ° Ğ•Ğ»ĞµĞ½Ğ° Ğ’Ğ°Ğ»ĞµÑ€ÑŒĞµĞ²Ğ½Ğ°" Phone1="1503" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ¤ĞµĞ´Ğ¾Ñ€Ğ¾Ğ² Ğ¡ĞµÑ€Ğ³ĞµĞ¹ ĞÑ„Ğ°Ğ½Ğ°ÑÑŒĞµĞ²Ğ¸Ñ‡" Phone1="1515" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ§Ğ¸Ñ€ĞºĞ¸Ğ½Ğ° ĞĞºÑĞ°Ğ½Ğ° ĞĞ¸ĞºĞ¾Ğ»Ğ°ĞµĞ²Ğ½Ğ°" Phone1="1505" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ‘Ğ¾Ğ»ÑŒÑˆĞ°ĞºĞ¾Ğ²Ğ° ĞĞ°Ğ·Ğ¸Ğ»Ñ Ğ¤Ğ°Ñ€Ğ¸Ñ‚Ğ¾Ğ²Ğ½Ğ°" Phone1="1508" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ“ÑƒÑ€Ğ°ÑĞ¾Ğ²Ğ° ĞĞ½Ğ°ÑÑ‚Ğ°ÑĞ¸Ñ ĞšĞ¾Ğ½ÑÑ‚Ğ°Ğ½Ñ‚Ğ¸Ğ½Ğ¾Ğ²Ğ½Ğ°" Phone1="1513" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ¦ĞµĞ¿ĞµĞ»ĞµĞ²Ğ° Ğ®Ğ»Ğ¸Ñ Ğ’Ğ°Ğ»ĞµĞ½Ñ‚Ğ¸Ğ½Ğ¾Ğ²Ğ½Ğ°" Phone1="1509" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞĞ´Ğ°ÑˆĞ¸Ğ½ÑĞºĞ°Ñ Ğ¢Ğ°Ğ½Ğ·Ğ¸Ğ»Ñ ĞÑ…Ğ¼ĞµĞ´Ğ¾Ğ²Ğ½Ğ°" Phone1="1510" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞŸĞµÑ‚Ñ‡ĞµĞ½ĞºĞ¾ Ğ¡Ğ²ĞµÑ‚Ğ»Ğ°Ğ½Ğ° Ğ“ĞµĞ½Ğ½Ğ°Ğ´ÑŒĞµĞ²Ğ½Ğ°" Phone1="1511" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞŸĞ»Ğ¸ÑˆĞºĞ¾Ğ²Ğ° Ğ¡Ğ²ĞµÑ‚Ğ»Ğ°Ğ½Ğ° Ğ“ĞµĞ½Ğ½Ğ°Ğ´ÑŒĞµĞ²Ğ½Ğ°" Phone1="1507" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ—Ğ°Ñ…Ğ°Ñ€Ğ¾Ğ²Ğ° Ğ¢Ğ°Ñ‚ÑŒÑĞ½Ğ° ĞĞ»ĞµĞºÑĞµĞµĞ²Ğ½Ğ°" Phone1="1504" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞŸĞ¾Ğ½Ğ¾Ğ¼Ğ°Ñ€ĞµĞ²Ğ° ĞĞ»Ğ¸Ğ½Ğ° Ğ˜Ğ²Ğ°Ğ½Ğ¾Ğ²Ğ½Ğ°" Phone1="1500" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞĞ°Ğ·Ğ¼Ğ¸ĞµĞ²Ğ° ĞĞ»Ğ¸Ñ Ğ Ğ°Ñ„Ğ¸ÑĞ¾Ğ²Ğ½Ğ°" Phone1="1512" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Menu Name="2. Ğ£Ñ‡Ğ°ÑÑ‚ĞºĞ¸">
+    <Unit Name="Ğ£Ğ³Ğ»Ğ¸Ğ½ ĞĞ½Ğ´Ñ€ĞµĞ¹ Ğ’Ğ»Ğ°Ğ´Ğ¸Ğ¼Ğ¸Ñ€Ğ¾Ğ²Ğ¸Ñ‡" Phone1="1517" Phone2="4005" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ Ğ¾Ğ¶Ğ¸Ğ½ Ğ®Ñ€Ğ¸Ğ¹ Ğ½Ğ¸ĞºĞ¾Ğ»Ğ°ĞµĞ²Ğ¸Ñ‡" Phone1="1514" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ Ğ¾Ğ¾Ñ‚ Ğ¢Ğ°Ñ‚ÑŒÑĞ½Ğ° Ğ’Ğ»Ğ°Ğ´Ğ¸Ğ¼Ğ¸Ñ€Ğ¾Ğ²Ğ½Ğ°" Phone1="1522" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ¨ĞµÑÑ‚Ğ°ĞºĞ¾Ğ²Ğ° Ğ®Ğ»Ğ¸Ñ Ğ’Ğ»Ğ°Ğ´Ğ¸Ğ¼Ğ¸Ñ€Ğ¾Ğ²Ğ½Ğ° " Phone1="1521" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Menu Name="3. ĞĞ—Ğ¡">
+    <Unit Name="ĞĞŸĞ¢Ğ˜ 1405" Phone1="4006" Phone2="4005" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞĞ—Ğ¡ 36" Phone1="4009" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞœĞ°Ñ€ĞºĞ¾Ğ²Ğ° Ğ•Ğ»ĞµĞ½Ğ° Ğ¡ĞµÑ€Ğ³ĞµĞµĞ²Ğ½Ğ°" Phone1="1516" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞĞ—Ğ¡ 54" Phone1="4011" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞĞ—Ğ¡ 16" Phone1="4010" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Menu Name="4. ĞÑ…Ñ€Ğ°Ğ½Ğ°"> 
+    <Unit Name="ĞŸĞ¾Ğ¶Ğ°Ñ€Ğ½Ğ°Ñ Ğ¾Ñ…Ñ€Ğ°Ğ½Ğ°" Phone1="1523" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ĞŸĞµÑ€Ğ²Ñ‹Ğ¹ Ğ¿Ğ¾ÑÑ‚ ĞĞ£ĞŸ" Phone1="1518" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ’Ñ‚Ğ¾Ñ€Ğ¾Ğ¹ Ğ¿Ğ¾ÑÑ‚ Ğ½ĞµÑ„Ñ‚ĞµĞ±Ğ°Ğ·Ğ°" Phone1="1519" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ğ¢Ñ€ĞµÑ‚Ğ¸Ğ¹ Ğ¿Ğ¾ÑÑ‚ Ğ½ĞµÑ„Ñ‚ĞµÑĞºĞ»Ğ°Ğ´" Phone1="1520" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
 </YealinkIPPhoneBook>
