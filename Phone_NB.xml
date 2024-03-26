@@ -17,17 +17,20 @@
     <Unit Name="Захарова Татьяна Алексеевна" Phone1="1504" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Пономарева Алина Ивановна" Phone1="1500" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Назмиева Алия Рафисовна" Phone1="1512" Phone2="" Phone3="" default_photo="Resource:"/>
+    </Menu>
   <Menu Name="2. Участки">
     <Unit Name="Углин Андрей Владимирович" Phone1="1517" Phone2="4005" Phone3="" default_photo="Resource:"/>
     <Unit Name="Рожин Юрий николаевич" Phone1="1514" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Роот Татьяна Владимировна" Phone1="1522" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Шестакова Юлия Владимировна " Phone1="1521" Phone2="" Phone3="" default_photo="Resource:"/>
+    </Menu>
   <Menu Name="3. АЗС">
     <Unit Name="ОПТИ 1405" Phone1="4006" Phone2="4005" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 36" Phone1="4009" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Маркова Елена Сергеевна" Phone1="1516" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 54" Phone1="4011" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 16" Phone1="4010" Phone2="" Phone3="" default_photo="Resource:"/>
+    </Menu>
   <Menu Name="4. Охрана"> 
     <Unit Name="Пожарная охрана" Phone1="1523" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Первый пост АУП" Phone1="1518" Phone2="" Phone3="" default_photo="Resource:"/>
