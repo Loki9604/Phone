@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="1. Административно-управленческий персонал">
+    <Unit Name="Скудин Иван Владимирович" Phone1="1501" Phone2="" Phone3="" default_photo="Resource:"/> 
+    <Unit Name="Лавриненко Александр Иванович" Phone1="1502" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Мишкина Анна Александровна" Phone1="1506" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Большунова Елена Валерьевна" Phone1="1503" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Федоров Сергей Афанасьевич" Phone1="1515" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Чиркина Оксана Николаевна" Phone1="1505" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Большакова Назиля Фаритовна" Phone1="1508" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Гурасова Анастасия Константиновна" Phone1="1513" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Цепелева Юлия Валентиновна" Phone1="1509" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Адашинская Танзиля Ахмедовна" Phone1="1510" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Петченко Светлана Геннадьевна" Phone1="1511" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Плишкова Светлана Геннадьевна" Phone1="1507" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Захарова Татьяна Алексеевна" Phone1="1504" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Пономарева Алина Ивановна" Phone1="1500" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Назмиева Алия Рафисовна" Phone1="1512" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Menu Name="2. Участки">
+    <Unit Name="Углин Андрей Владимирович" Phone1="1517" Phone2="4005" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Рожин Юрий николаевич" Phone1="1514" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Роот Татьяна Владимировна" Phone1="1522" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Шестакова Юлия Владимировна " Phone1="1521" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Menu Name="3. АЗС">
+    <Unit Name="ОПТИ 1405" Phone1="4006" Phone2="4005" Phone3="" default_photo="Resource:"/>
+    <Unit Name="АЗС 36" Phone1="4009" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Маркова Елена Сергеевна" Phone1="1516" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="АЗС 54" Phone1="4011" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="АЗС 16" Phone1="4010" Phone2="" Phone3="" default_photo="Resource:"/>
+  <Menu Name="4. Охрана"> 
+    <Unit Name="Пожарная охрана" Phone1="1523" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Первый пост АУП" Phone1="1518" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Второй пост нефтебаза" Phone1="1519" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Третий пост нефтесклад" Phone1="1520" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>
