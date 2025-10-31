@@ -12,7 +12,7 @@
     <Unit Name="Гурасова Анастасия Константиновна" Phone1="1513" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Цепелева Юлия Валентиновна" Phone1="1509" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Адашинская Танзиля Ахмедовна" Phone1="1510" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Афутина Нина Васильевна" Phone1="1511" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Юсупова Наталья Дмитриевна" Phone1="1511" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Плишкова Светлана Геннадьевна" Phone1="1507" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Буянова Алена Анатольевна" Phone1="1504" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Петченко Светлана Геннадьевна" Phone1="1500" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -39,3 +39,4 @@
     <Unit Name="Третий пост нефтесклад" Phone1="1520" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
 </YealinkIPPhoneBook>
+
