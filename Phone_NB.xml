@@ -40,6 +40,7 @@
   </Menu>
   <Menu Name=". Нагорный"> 
     <Unit Name="Кузьмина Лариса Михайловна" Phone1="1702" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Борисова Ольга Николаевна" Phone1="1703" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Бутенко Наталья Леонидовна" Phone1="1707" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Беляева Евгения Алексеевна" Phone1="1709" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Алексеева Майя Владимировна" Phone1="1704" Phone2="" Phone3="" default_photo="Resource:"/>
