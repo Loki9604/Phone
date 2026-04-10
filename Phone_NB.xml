@@ -2,7 +2,7 @@
 <YealinkIPPhoneBook>
   <Title>Yealink</Title>
   <Menu Name="1. Административно-управленческий персонал">
-    <Unit Name="Сорока Юрий Александрович" Phone1="1501" Phone2="" Phone3="" default_photo="Resource:"/> 
+    <Unit Name="Антонов Аркадий Николаевич" Phone1="1501" Phone2="" Phone3="" default_photo="Resource:"/> 
     <Unit Name="Лавриненко Александр Иванович" Phone1="1502" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Мишкина Анна Александровна" Phone1="1506" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Большунова Елена Валерьевна" Phone1="1503" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -28,7 +28,6 @@
   <Menu Name="3. АЗС">
     <Unit Name="ОПТИ 1405" Phone1="4006" Phone2="4005" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 36" Phone1="4009" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Маркова Елена Сергеевна" Phone1="1516" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 54" Phone1="4011" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 16" Phone1="4010" Phone2="" Phone3="" default_photo="Resource:"/>
     </Menu>
