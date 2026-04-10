@@ -37,22 +37,25 @@
     <Unit Name="Второй пост нефтебаза" Phone1="1519" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Третий пост нефтесклад" Phone1="1520" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
-  <Menu Name="5. Нагорный"> 
+  <Menu Name="5. Нагорный">
+    <Unit Name="Поляченко Алена Леонидовна" Phone1="1700" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Кузьмина Лариса Михайловна" Phone1="1702" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Борисова Ольга Николаевна" Phone1="1703" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Бутенко Наталья Леонидовна" Phone1="1707" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Беляева Евгения Алексеевна" Phone1="1709" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Алексеева Майя Владимировна" Phone1="1704" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Максимов Андрей Андреевич" Phone1="1710" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Седанова Наталья Васильевна" Phone1="1706" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Тартоева Виктория Анатольевна" Phone1="1704" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ондар Клара Михайловна" Phone1="1705" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Фомченко Анастасия Анатольевна" Phone1="1708" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="АЗС 174 Нагорный" Phone1="4017" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Беляева Евгения Алексеевна" Phone1="1709" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Максимов Андрей Андреевич" Phone1="1710" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Гоголев Владимир Николаевич" Phone1="1712" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Лазаренко Людмила Николаевна" Phone1="1713" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="АЗС 31 Нагорный" Phone1="4035" Phone2="4036" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 33 Нагорный" Phone1="4018" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 95 Нагорный" Phone1="4012" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="АЗС 96 Нагорный" Phone1="4016" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 133 Нагорный" Phone1="4013" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 165 Нагорный" Phone1="4019" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="АЗС 172 Нагорный" Phone1="4015" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="АЗС 96 Нагорный" Phone1="4016" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="АЗС 174 Нагорный" Phone1="4017" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Нефтесклад Нагорный" Phone1="89244634667" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
 </YealinkIPPhoneBook>
 
